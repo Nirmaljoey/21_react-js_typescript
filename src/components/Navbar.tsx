@@ -34,7 +34,7 @@ const Navbar: React.FC = () => {
         <img src={logo} alt="21YARD Logo" className="h-4" />
       </Link>
       <div className="flex gap-10">
-        <Link to="/" className="text-black hover:text-gray-600">Заказы</Link>
+        <Link to="/personal-account/profile/listings" className="text-black hover:text-gray-600">Заказы</Link>
         <Link to="/personal-account/profile/" className="text-black hover:text-gray-600">Мои заявки</Link>
         <Link to="/" className="text-black hover:text-gray-600">Тарификация</Link>
         <Link to="/" className="text-black hover:text-gray-600">Шаблоны</Link>

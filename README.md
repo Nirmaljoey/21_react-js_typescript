@@ -1,4 +1,3 @@
-Here’s a detailed **README** for your project, combining the project setup, architecture, and launch instructions.  
 
 ---
 
